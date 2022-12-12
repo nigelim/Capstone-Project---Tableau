@@ -1,2 +1,2 @@
-# Capstone-Project---Tableau
+# Vertical Institute Capstone Project: Powerpoint Slides
 
